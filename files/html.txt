@@ -1,0 +1,1 @@
+html use for making frontend of a website we can make a structure of our website using html
